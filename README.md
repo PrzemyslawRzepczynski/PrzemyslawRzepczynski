@@ -5,7 +5,7 @@
 I am looking for a starting position as a Junior Developer and are looking for a long-term place where I can learn and develop my skills as a programmer. Programming is my passion, and I am a self-taught JavaScript and React programmer. Currently, I am learning on Udemy and working on a big project that is a Netflix clone, but I am also working on some smaller projects so that I can continue to develop my skills. 
 
 
-Expense Tracker link : https://kind-spence-e47686.netlify.app/
+Expense Tracker link : https://brave-edison-c11e72.netlify.app/
 
 Working on Netflix Clone : ...
 
