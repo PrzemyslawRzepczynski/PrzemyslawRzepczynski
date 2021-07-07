@@ -7,7 +7,7 @@ I am looking for a starting position as a Junior Developer and are looking for a
 
 Expense Tracker link : https://brave-edison-c11e72.netlify.app/
 
-Working on Netflix Clone : https://sad-ptolemy-9a767f.netlify.app/
+Netflix Clone : netflix-clone-df1207.netlify.app
 
 
 <!---
